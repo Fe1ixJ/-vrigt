@@ -1,0 +1,11 @@
+C:\Users\feljoh041\Desktop\Mule Shooter\Mule Shooter\bin\Debug\Mule Shooter.exe.config
+C:\Users\feljoh041\Desktop\Mule Shooter\Mule Shooter\bin\Debug\Mule Shooter.exe
+C:\Users\feljoh041\Desktop\Mule Shooter\Mule Shooter\bin\Debug\Mule Shooter.pdb
+C:\Users\feljoh041\Desktop\Mule Shooter\Mule Shooter\obj\Debug\Mule Shooter.csproj.AssemblyReference.cache
+C:\Users\feljoh041\Desktop\Mule Shooter\Mule Shooter\obj\Debug\Mule Shooter.csproj.SuggestedBindingRedirects.cache
+C:\Users\feljoh041\Desktop\Mule Shooter\Mule Shooter\obj\Debug\Mule_Shooter.Form1.resources
+C:\Users\feljoh041\Desktop\Mule Shooter\Mule Shooter\obj\Debug\Mule_Shooter.Properties.Resources.resources
+C:\Users\feljoh041\Desktop\Mule Shooter\Mule Shooter\obj\Debug\Mule Shooter.csproj.GenerateResource.cache
+C:\Users\feljoh041\Desktop\Mule Shooter\Mule Shooter\obj\Debug\Mule Shooter.csproj.CoreCompileInputs.cache
+C:\Users\feljoh041\Desktop\Mule Shooter\Mule Shooter\obj\Debug\Mule Shooter.exe
+C:\Users\feljoh041\Desktop\Mule Shooter\Mule Shooter\obj\Debug\Mule Shooter.pdb
